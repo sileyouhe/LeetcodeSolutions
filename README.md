@@ -1,0 +1,2 @@
+# LeetcodeNotes
+Enjoy coding!
